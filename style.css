@@ -306,6 +306,14 @@ footer .list li::after {
         padding: 0 10px;
     }
 
+    header .list {
+        margin: 0;
+    }
+
+    header .list li {
+        padding: 0;
+    }
+
     .logo {
         position: relative;
         width: 100%;
